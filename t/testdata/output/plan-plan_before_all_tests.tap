@@ -1,0 +1,7 @@
+ok 1 - top-level test 1
+    2..2
+    ok 1
+    ok 2
+ok 2 - top-level test 2
+ok 3 - top-level test 3
+1..3

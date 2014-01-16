@@ -1,0 +1,5 @@
+ok 1 - top-level test 1
+	2..2
+	ok 1
+	ok 2
+	Bail out!  Error parsing TAP: More than one plan

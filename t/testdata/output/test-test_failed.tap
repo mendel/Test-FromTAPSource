@@ -1,0 +1,10 @@
+ok 1 - top-level test 1
+    not ok 1
+    #   Failed test at -e line 1.
+    1..1
+    # Looks like you failed 1 test of 1.
+not ok 2 - top-level test 2
+# Failed test 'top-level test 2'
+#   at FILE line LINE.
+ok 3 - top-level test 3
+1..3

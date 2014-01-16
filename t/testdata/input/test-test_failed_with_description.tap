@@ -1,0 +1,5 @@
+not ok 1 - test 1
+#   Failed test 'test 1'
+#   at -e line 1.
+1..1
+# Looks like you failed 1 test of 1.

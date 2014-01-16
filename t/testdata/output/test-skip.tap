@@ -1,0 +1,7 @@
+ok 1 - top-level test 1
+    ok 1 # skip reason for skipping
+    ok 2 # skip reason for skipping
+    1..2
+ok 2 - top-level test 2
+ok 3 - top-level test 3
+1..3
